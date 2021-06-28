@@ -38,7 +38,7 @@ proxies:
     port: 29980
     type: http
     username: "459308767515770880"
-    password: 9e7a6c9e-8bd8-4300-9787-d1c484739145
+    password: ccc12a0b-5a4e-4ba4-beac-fbe7e1e00906
     tls: true
     skip-cert-verify: false
 # 炮灰token: https://bihai.000webhostapp.com/index.php?id=e5c0c8e091ad43ad94d766d205d4bcec
@@ -47,7 +47,7 @@ proxies:
     port: 29980
     type: http
     username: "443043410526339072"
-    password: 4823e665-07a2-42a3-a2b1-a26d80989614
+    password: 22aef53b-8213-4f75-a1fe-bb87f895457c
     tls: true
     skip-cert-verify: false
 # 炮灰token: https://bihai.000webhostapp.com/index.php?id=b96a405fb1cd400caaf87abe5dc8d739
