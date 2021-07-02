@@ -32,44 +32,17 @@ proxies:
     password: 65d71e8a-181b-476c-aa49-3ecf56776f7c
     tls: true
     skip-cert-verify: false
-# 炮灰token: https://bihai.000webhostapp.com/index.php?id=e9315d3caadb49059fb7c262778c7819
+# 炮灰token: https://bihai.000webhostapp.com/index.php?id=b96a405fb1cd400caaf87abe5dc8d739
   - name: 🇭🇰 HK_Fastq_炮灰3
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "459308767515770880"
-    password: ccc12a0b-5a4e-4ba4-beac-fbe7e1e00906
-    tls: true
-    skip-cert-verify: false
-# 炮灰token: https://bihai.000webhostapp.com/index.php?id=e5c0c8e091ad43ad94d766d205d4bcec
-  - name: 🇭🇰 HK_Fastq_炮灰4
-    server: a1.ap.fastqvpn.com
-    port: 29980
-    type: http
-    username: "443043410526339072"
-    password: 22aef53b-8213-4f75-a1fe-bb87f895457c
-    tls: true
-    skip-cert-verify: false
-# 炮灰token: https://bihai.000webhostapp.com/index.php?id=b96a405fb1cd400caaf87abe5dc8d739
-  - name: 🇭🇰 HK_Fastq_炮灰5
-    server: a1.ap.fastqvpn.com
-    port: 29980
-    type: http
     username: "447333925371510784"
-    password: e1d1f37b-87cd-4201-81a2-41f22679de81
-    tls: true
-    skip-cert-verify: false
-# 炮灰token: https://bihai.000webhostapp.com/index.php?id=31b7308d652440009d09bc8f01811a90
-  - name: 🇭🇰 HK_Fastq_炮灰6
-    server: a1.ap.fastqvpn.com
-    port: 29980
-    type: http
-    username: "460548667984576512"
-    password: 8ccc63aa-93ae-4cce-830d-489eb10daeb8
+    password: 9d2f849e-77a7-4871-b757-e7e9815c39be
     tls: true
     skip-cert-verify: false
 # 炮灰token: https://bihai.000webhostapp.com/index.php?id=0fbaab4aa2874f8a92f690bf1f662f45
-  - name: 🇭🇰 HK_Fastq_炮灰7
+  - name: 🇭🇰 HK_Fastq_炮灰4
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
@@ -78,16 +51,15 @@ proxies:
     tls: true
     skip-cert-verify: false
 # 炮灰token: https://bihai.000webhostapp.com/index.php?id=be8987ae1e8c42f5b5494b112d9f258e
-  - name: 🇭🇰 HK_Fastq_炮灰8
-    server: a1.ap.fastqvpn.com
+  - name: 🇭🇰 HK_Fastq_炮灰5
     port: 29980
     type: http
     username: "447343993513050112"
-    password: 4f00134d-b439-41ae-a5af-6f4ec88f7f15
+    password: f5f103f5-181b-46fa-80d7-cf8c6b44c316
     tls: true
     skip-cert-verify: false
 # 炮灰token: https://bihai.000webhostapp.com/index.php?id=9720decd48c642e280cd6ad5f87a8ec4
-  - name: 🇭🇰 HK_Fastq_炮灰9
+  - name: 🇭🇰 HK_Fastq_炮灰6
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
@@ -96,7 +68,7 @@ proxies:
     tls: true
     skip-cert-verify: false
 # 炮灰token: https://bihai.000webhostapp.com/index.php?id=5686b2f81fc14dfb816c756d3f2de9c3
-  - name: 🇭🇰 HK_Fastq_炮灰10
+  - name: 🇭🇰 HK_Fastq_炮灰7
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
@@ -118,16 +90,8 @@ proxy-groups:
       - 🇭🇰 HK_Fastq_炮灰3
       - 🇭🇰 HK_Fastq_炮灰4
       - 🇭🇰 HK_Fastq_炮灰5
-      - 🇭🇰 HK_Fastq_炮灰1
-      - 🇭🇰 HK_Fastq_炮灰2
-      - 🇭🇰 HK_Fastq_炮灰3
-      - 🇭🇰 HK_Fastq_炮灰4
-      - 🇭🇰 HK_Fastq_炮灰5
       - 🇭🇰 HK_Fastq_炮灰6
       - 🇭🇰 HK_Fastq_炮灰7
-      - 🇭🇰 HK_Fastq_炮灰8
-      - 🇭🇰 HK_Fastq_炮灰9
-      - 🇭🇰 HK_Fastq_炮灰10
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -140,16 +104,8 @@ proxy-groups:
       - 🇭🇰 HK_Fastq_炮灰3
       - 🇭🇰 HK_Fastq_炮灰4
       - 🇭🇰 HK_Fastq_炮灰5
-      - 🇭🇰 HK_Fastq_炮灰1
-      - 🇭🇰 HK_Fastq_炮灰2
-      - 🇭🇰 HK_Fastq_炮灰3
-      - 🇭🇰 HK_Fastq_炮灰4
-      - 🇭🇰 HK_Fastq_炮灰5
       - 🇭🇰 HK_Fastq_炮灰6
       - 🇭🇰 HK_Fastq_炮灰7
-      - 🇭🇰 HK_Fastq_炮灰8
-      - 🇭🇰 HK_Fastq_炮灰9
-      - 🇭🇰 HK_Fastq_炮灰10
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -161,16 +117,8 @@ proxy-groups:
       - 🇭🇰 HK_Fastq_炮灰3
       - 🇭🇰 HK_Fastq_炮灰4
       - 🇭🇰 HK_Fastq_炮灰5
-      - 🇭🇰 HK_Fastq_炮灰1
-      - 🇭🇰 HK_Fastq_炮灰2
-      - 🇭🇰 HK_Fastq_炮灰3
-      - 🇭🇰 HK_Fastq_炮灰4
-      - 🇭🇰 HK_Fastq_炮灰5
       - 🇭🇰 HK_Fastq_炮灰6
       - 🇭🇰 HK_Fastq_炮灰7
-      - 🇭🇰 HK_Fastq_炮灰8
-      - 🇭🇰 HK_Fastq_炮灰9
-      - 🇭🇰 HK_Fastq_炮灰10
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -182,16 +130,8 @@ proxy-groups:
       - 🇭🇰 HK_Fastq_炮灰3
       - 🇭🇰 HK_Fastq_炮灰4
       - 🇭🇰 HK_Fastq_炮灰5
-      - 🇭🇰 HK_Fastq_炮灰1
-      - 🇭🇰 HK_Fastq_炮灰2
-      - 🇭🇰 HK_Fastq_炮灰3
-      - 🇭🇰 HK_Fastq_炮灰4
-      - 🇭🇰 HK_Fastq_炮灰5
       - 🇭🇰 HK_Fastq_炮灰6
       - 🇭🇰 HK_Fastq_炮灰7
-      - 🇭🇰 HK_Fastq_炮灰8
-      - 🇭🇰 HK_Fastq_炮灰9
-      - 🇭🇰 HK_Fastq_炮灰10
   - name: 🎯 全球直连
     type: select
     proxies:
