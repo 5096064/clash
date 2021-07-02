@@ -157,16 +157,8 @@ proxy-groups:
       - 🇭🇰 HK_Fastq_炮灰3
       - 🇭🇰 HK_Fastq_炮灰4
       - 🇭🇰 HK_Fastq_炮灰5
-      - 🇭🇰 HK_Fastq_炮灰1
-      - 🇭🇰 HK_Fastq_炮灰2
-      - 🇭🇰 HK_Fastq_炮灰3
-      - 🇭🇰 HK_Fastq_炮灰4
-      - 🇭🇰 HK_Fastq_炮灰5
       - 🇭🇰 HK_Fastq_炮灰6
       - 🇭🇰 HK_Fastq_炮灰7
-      - 🇭🇰 HK_Fastq_炮灰8
-      - 🇭🇰 HK_Fastq_炮灰9
-      - 🇭🇰 HK_Fastq_炮灰10
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
