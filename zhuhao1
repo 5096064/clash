@@ -92,6 +92,13 @@ proxy-groups:
       - 🇭🇰 HK_Fastq_炮灰5
       - 🇭🇰 HK_Fastq_炮灰6
       - 🇭🇰 HK_Fastq_炮灰7
+      - 🇭🇰 HK_Fastq_炮灰1
+      - 🇭🇰 HK_Fastq_炮灰2
+      - 🇭🇰 HK_Fastq_炮灰3
+      - 🇭🇰 HK_Fastq_炮灰4
+      - 🇭🇰 HK_Fastq_炮灰5
+      - 🇭🇰 HK_Fastq_炮灰6
+      - 🇭🇰 HK_Fastq_炮灰7
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -99,6 +106,13 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇭🇰 HK_Fastq_主力1
+      - 🇭🇰 HK_Fastq_炮灰1
+      - 🇭🇰 HK_Fastq_炮灰2
+      - 🇭🇰 HK_Fastq_炮灰3
+      - 🇭🇰 HK_Fastq_炮灰4
+      - 🇭🇰 HK_Fastq_炮灰5
+      - 🇭🇰 HK_Fastq_炮灰6
+      - 🇭🇰 HK_Fastq_炮灰7
       - 🇭🇰 HK_Fastq_炮灰1
       - 🇭🇰 HK_Fastq_炮灰2
       - 🇭🇰 HK_Fastq_炮灰3
@@ -119,12 +133,26 @@ proxy-groups:
       - 🇭🇰 HK_Fastq_炮灰5
       - 🇭🇰 HK_Fastq_炮灰6
       - 🇭🇰 HK_Fastq_炮灰7
+      - 🇭🇰 HK_Fastq_炮灰1
+      - 🇭🇰 HK_Fastq_炮灰2
+      - 🇭🇰 HK_Fastq_炮灰3
+      - 🇭🇰 HK_Fastq_炮灰4
+      - 🇭🇰 HK_Fastq_炮灰5
+      - 🇭🇰 HK_Fastq_炮灰6
+      - 🇭🇰 HK_Fastq_炮灰7
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - 🇭🇰 HK_Fastq_主力1
+      - 🇭🇰 HK_Fastq_炮灰1
+      - 🇭🇰 HK_Fastq_炮灰2
+      - 🇭🇰 HK_Fastq_炮灰3
+      - 🇭🇰 HK_Fastq_炮灰4
+      - 🇭🇰 HK_Fastq_炮灰5
+      - 🇭🇰 HK_Fastq_炮灰6
+      - 🇭🇰 HK_Fastq_炮灰7
       - 🇭🇰 HK_Fastq_炮灰1
       - 🇭🇰 HK_Fastq_炮灰2
       - 🇭🇰 HK_Fastq_炮灰3
@@ -152,6 +180,13 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - 🇭🇰 HK_Fastq_主力1
+      - 🇭🇰 HK_Fastq_炮灰1
+      - 🇭🇰 HK_Fastq_炮灰2
+      - 🇭🇰 HK_Fastq_炮灰3
+      - 🇭🇰 HK_Fastq_炮灰4
+      - 🇭🇰 HK_Fastq_炮灰5
+      - 🇭🇰 HK_Fastq_炮灰6
+      - 🇭🇰 HK_Fastq_炮灰7
       - 🇭🇰 HK_Fastq_炮灰1
       - 🇭🇰 HK_Fastq_炮灰2
       - 🇭🇰 HK_Fastq_炮灰3
