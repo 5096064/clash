@@ -10,7 +10,7 @@ proxies:
   - {name: 🇭🇰 香港EA3_彬哥自用_炮灰1, server: a1.er3.xyz, port: 29980, type: http, username: AAAAAAAAAA, password: BBBBBBBBBBBBB, tls: true, skip-cert-verify: true}
 # 炮灰2token: https://bihai.000webhostapp.com/index.php?id=
   - {name: 🇭🇰 香港FASTQ_彬哥自用_炮灰2, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: AAAAAAAAAA, password: BBBBBBBBBBBBB, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 香港EA3_彬哥自用_炮灰2, server: a1.er3.xyz, port: 29980, type: http, username: AAAAAAAAAA, password:BBBBBBBBBBBBB, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 香港EA3_彬哥自用_炮灰2, server: a1.er3.xyz, port: 29980, type: http, username: AAAAAAAAAA, password: BBBBBBBBBBBBB, tls: true, skip-cert-verify: true}
 # 炮灰3token: https://bihai.000webhostapp.com/index.php?id=
   - {name: 🇭🇰 香港FASTQ_彬哥自用_炮灰3, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: AAAAAAAAAA, password: BBBBBBBBBBBBB, tls: true, skip-cert-verify: true}
   - {name: 🇭🇰 香港EA3_彬哥自用_炮灰3, server: a1.er3.xyz, port: 29980, type: http, username: AAAAAAAAAA, password: BBBBBBBBBBBBB, tls: true, skip-cert-verify: true}
