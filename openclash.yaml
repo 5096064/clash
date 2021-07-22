@@ -17,9 +17,9 @@ proxies:
 # 炮灰4token: https://bihai.000webhostapp.com/index.php?id=bbc2298e2784454ba35f5e150ea6e2b6
   - {name: 🇭🇰 香港FASTQ_彬哥自用_炮灰4, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 469463631277326336, password: 0e691502-c309-45bf-a048-edf11736956b, tls: true, skip-cert-verify: true}
   - {name: 🇭🇰 香港EA3_彬哥自用_炮灰4, server: jc.ap.fastqvpn.com, port: 29980, type: http, username: 469463631277326336, password: 0e691502-c309-45bf-a048-edf11736956b, tls: true, skip-cert-verify: true}
-# 炮灰5token: https://bihai.000webhostapp.com/index.php?id=
-  - {name: 🇭🇰 香港FASTQ_彬哥自用_炮灰5, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: AAAAAAAAAA, password: BBBBBBBBBBBBB, tls: true, skip-cert-verify: true}
-  - {name: 🇭🇰 香港EA3_彬哥自用_炮灰5, server: a1.er3.xyz, port: 29980, type: http, username: AAAAAAAAAA, password: BBBBBBBBBBBBB, tls: true, skip-cert-verify: true}
+# 炮灰5token: https://bihai.000webhostapp.com/index.php?id=10b35da0dfc74f689aae03546d389bf8
+  - {name: 🇭🇰 香港FASTQ_彬哥自用_炮灰5, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 469457789140340736, password: 3109ab32-190b-45d9-b052-54b22fd14fb1, tls: true, skip-cert-verify: true}
+  - {name: 🇭🇰 香港EA3_彬哥自用_炮灰5, server: a1.er3.xyz, port: 29980, type: http, username: 469457789140340736, password: 3109ab32-190b-45d9-b052-54b22fd14fb1, tls: true, skip-cert-verify: true}
 # 炮灰6token: https://bihai.000webhostapp.com/index.php?id=
   - {name: 🇭🇰 香港FASTQ_彬哥自用_炮灰6, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: AAAAAAAAAA, password: BBBBBBBBBBBBB, tls: true, skip-cert-verify: true}
   - {name: 🇭🇰 香港EA3_彬哥自用_炮灰6, server: a1.er3.xyz, port: 29980, type: http, username: AAAAAAAAAA, password: BBBBBBBBBBBBB, tls: true, skip-cert-verify: true}
